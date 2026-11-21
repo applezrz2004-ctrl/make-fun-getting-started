@@ -14,9 +14,9 @@ This page walks a complete newcomer through the whole loop: account, first bount
 first submission, first payout.
 
 > **Coming in fresh? Use my referral link to sign up:**
-> [https://make.fun/r/h7ppf4mt](https://make.fun/r/h7ppf4mt)
+> [https://make.fun/r/s3y7x5c7](https://make.fun/r/s3y7x5c7)
 >
-> Or type the code by hand: `h7ppf4mt`
+> Or type the code by hand: `s3y7x5c7`
 
 ## How this guide is organised
 
@@ -260,7 +260,7 @@ profile. Rewards are held for review for at least a day before they can be
 claimed, and only genuine new accounts that actually participate count.
 
 This guide exists because a bounty paid for it. If it got you started, signing
-up through [my referral link](https://make.fun/r/h7ppf4mt) — code `h7ppf4mt` —
+up through [my referral link](https://make.fun/r/s3y7x5c7) — code `s3y7x5c7` —
 is a kind way to say thanks.
 
 ## Questions people actually ask
@@ -319,4 +319,4 @@ strips credentials, email addresses and home-directory paths, and
 
 ---
 
-<sub>This guide was written for the make.fun community. Start here: https://make.fun/r/h7ppf4mt · referral code `h7ppf4mt`</sub>
+<sub>This guide was written for the make.fun community. Start here: https://make.fun/r/s3y7x5c7 · referral code `s3y7x5c7`</sub>
